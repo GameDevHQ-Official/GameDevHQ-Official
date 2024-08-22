@@ -7,8 +7,6 @@
   <a href="https://medium.com/@jonweinberger"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
----
-
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Test Article 1](test.com)
@@ -18,8 +16,6 @@
 - [Test Article 5](test.com)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [View more on my dev blog](https://medium.com/@jonweinberger)
-
----
 
 ### 🛠️ Languages and Tools
 
@@ -36,8 +32,6 @@
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio" width="40" height="40"/></a>
 </p>
-
----
 
 ### 💾 Featured Projects
 
@@ -62,7 +56,5 @@
 </p>
 
 ➡️ [View more on my website](https://gamedevhq.com)
-
----
 
 <h3 align="center">Let's connect and create something amazing together!</h3>
